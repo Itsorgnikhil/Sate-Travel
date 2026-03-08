@@ -1,0 +1,15 @@
+com\saferoute\model\Review.class
+com\saferoute\model\User.class
+com\saferoute\model\Location.class
+com\saferoute\model\ZoneHistory.class
+com\saferoute\service\ZoneService.class
+com\saferoute\SafeRouteApplication.class
+com\saferoute\repository\UserRepository.class
+com\saferoute\repository\ZoneRepository.class
+com\saferoute\repository\ReviewRepository.class
+com\saferoute\model\ZoneStatus.class
+com\saferoute\model\Zone.class
+com\saferoute\repository\ZoneHistoryRepository.class
+com\saferoute\controller\AuthController.class
+com\saferoute\controller\LocationController.class
+com\saferoute\repository\LocationRepository.class
